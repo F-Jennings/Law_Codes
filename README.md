@@ -1,2 +1,2 @@
 # TEPC_Scripts
-Useful scripts for cyberlawyering
+Useful scripts and code snippets for cyberlawyering

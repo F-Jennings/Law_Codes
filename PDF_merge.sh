@@ -23,4 +23,4 @@ read merged
 
 read -p "Okay go? Press any key" -n1 -s #Give user time to cancel if they messed up
 
-gs -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=[$emrged].pdf [$selected_dir]/*.pdf
+gs -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=$merged.pdf $selected_dir/*.pdf

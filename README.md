@@ -1,2 +1,2 @@
-# TEPC_Scripts
-Useful scripts and code snippets for legal work
+# Law Codes
+Useful scripts and snippets for legal work
